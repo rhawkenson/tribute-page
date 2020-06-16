@@ -1,4 +1,9 @@
-img {
-    max-width: 390px;
-    max-height: 812px;
+#img-div {
+    justify-content: center;
+    
+}
+
+img{
+    max-width: 195px;
+    max-height: 406px;
 }
