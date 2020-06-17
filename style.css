@@ -1,9 +1,36 @@
+/* 
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Roboto Slab', serif; */
+    
+
+body{
+    background: rgb(88, 8, 8);
+    color:rgb(236, 238, 209);
+    text-align: center;
+}
+a {
+    color: rgb(99, 201, 248);
+}
+h1{
+    font-family: 'Cormorant Garamond', serif;
+}
+
+h2{
+    font-family: 'Roboto Slab', serif;
+}
+
 #img-div {
     justify-content: center;
-    
 }
 
 img{
-    max-width: 195px;
-    max-height: 406px;
+    width: 100%;
+    height: auto;
+    max-width: 2026px;
+    max-height: 1344px;
+}
+
+figcaption{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
 }
